@@ -30,7 +30,7 @@
     "html-react-parser": "^5.2.0",
     "microcms-js-sdk": "^3.1.2",
     "microcms-lib": "^1.0.4",
-    "next": "15.0.4",
+    "next": "15.4.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tocbot": "^4.32.2"
