@@ -2,7 +2,7 @@
 
 import { Box } from '@mui/material';
 import { useEffect } from 'react';
-import * as tocbot from 'tocbot';
+import tocbot from 'tocbot';
 
 import { Agenda } from './agenda';
 import { Content } from './content';
